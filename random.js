@@ -10,6 +10,7 @@ var randomLink = function (url) {
     var subCat = 2;
     var num = Math.floor(Math.random(1)*2+1);
    
+   
    if (num == page) {
     console.log("looking for a page");
     //code to be executed if it chooses #mw-pages
